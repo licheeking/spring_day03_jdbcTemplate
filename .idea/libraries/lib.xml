@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://F:/lib/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-jdbc-4.2.4.RELEASE-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://F:/lib/lib" recursive="false" />
+  </library>
+</component>
